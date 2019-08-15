@@ -40,4 +40,30 @@ Congratulations 1_M_l337! !!, your score is 9001.
 ### Exercise 3:
 
 Using the provided Object literal, create a template string  and iterate through the Parents and Children and print them in a format sililar to the following:
+```
 
+    	SCHOOL PARENT LISTING
+        
+
+Parent's Name: Mr. Bill
+Children: 
+Sluggo 
+Spot 
+Linda
+
+Parent's Name: J. Page
+Children: 
+Mick
+Robert
+John
+Kenny
+
+Parent's Name: Randolh H.
+Children:
+Biffy
+Carl Jr.
+```
+Use the Object literal data below. You will need to iteratethrough each object and print it out with a template.
+
+### Challenge
+Put all the printing logic in a separate function and call the function for each Parent so they and their Children print. 
