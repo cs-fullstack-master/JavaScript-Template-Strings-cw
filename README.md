@@ -39,31 +39,13 @@ Congratulations 1_M_l337! !!, your score is 9001.
 
 ### Exercise 3:
 
-Using the provided Object literal, create a template string  and iterate through the Parents and Children and print them in a format sililar to the following:
-```
+Combine multiple development concepts to create a basketball scoring program that meets the following requirements:
+- Prompts the user for the name of their Home team
+- Prompts the user for the name of the Visiting team
+- Prompt the user to enter the score for their home team *(include the team name when prompting the user)*
+`How many points did the Memphis Grizzlies score? (Home team score)`
+- Prompt the user to enter the score for the visiting team *(include the team name when prompting the user)*
+`How many points did the GS Warriors score? (Visting team score)`
 
-    	SCHOOL PARENT LISTING
-        
+In your program determine which team won the game with the highest score and display the results in an alert box.
 
-Parent's Name: Mr. Bill
-Children: 
-Sluggo 
-Spot 
-Linda
-
-Parent's Name: J. Page
-Children: 
-Mick
-Robert
-John
-Kenny
-
-Parent's Name: Randolh H.
-Children:
-Biffy
-Carl Jr.
-```
-Use the Object literal data below. You will need to iteratethrough each object and print it out with a template.
-
-### Challenge
-Put all the printing logic in a separate function and call the function for each Parent so they and their Children print. 
