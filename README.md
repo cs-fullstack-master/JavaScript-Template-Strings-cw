@@ -49,3 +49,11 @@ Combine multiple development concepts to create a basketball scoring program tha
 
 In your program determine which team won the game with the highest score and display the results in an alert box.
 
+Expected Output:
+```
+Looks like the Memphis Grizzles have defeated the GS Warriors!
+
+FINAL SCORE:
+Home/Memphis Grizzlies: 102
+Visitors/GS Warriors: 23
+```
